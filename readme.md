@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cubo.network/assets/images/cubo.svg" width="200">
+  <img src="https://firebasestorage.googleapis.com/v0/b/enjoy-prod.appspot.com/o/places%2Fimg%2FLogo_Enjoy_Positivo.png?alt=media&token=1ffd85b2-5313-4827-a780-8bdc63c640b3" width="200">
 </p>
 
 # { "developer": "fullstack" }
@@ -9,7 +9,7 @@ The objective of this challenge is to evaluate your domain in fullstack developm
 ## Rules
 
 1. Your code should be made available in a public or private repository, on your personal github or bitbucket;
-2. Send the link to dev@cubo.network;
+2. Send the link to danilo@letsenjoy.it;
 3. We use Angular and Node.js with Serverless, but you can feel free to choose other technologies;
 
 ## Challenge
@@ -39,4 +39,9 @@ Feel free to make improviments like new funcionalities, visual optimizations, AP
 
 ## Questions?
 
-Send your questions directly to dev@cubo.network or opening a issue.
+Send your questions directly to danilo@letsenjoy.it or opening a issue.
+
+<p align="center">
+  powered by
+  <img src="https://cubo.network/assets/images/cubo.svg" width="200">
+</p>
